@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pistonsawe8h.github.io/sz-f42/sitemap.xml
